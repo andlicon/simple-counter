@@ -1,0 +1,22 @@
+.casilla {
+    background-color: lightgray;
+    border-radius: 8px;
+    border: 3px solid darkgrey;
+}
+
+p.casilla-p {
+    margin: 0;
+}
+
+.casilla-p {
+    /* caja */
+    padding: 0.5em;
+    /* posicion */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* text */
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+}

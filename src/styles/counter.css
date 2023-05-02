@@ -1,0 +1,13 @@
+.counter-container {
+    /* caja */
+    padding: 40px;
+    /* posicion */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    /* estilos */
+    background-color: black;
+    color: white;
+}
